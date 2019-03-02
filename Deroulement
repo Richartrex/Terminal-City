@@ -1,0 +1,248 @@
+    1  pwd
+    2  mkdir WCS
+    3  ls
+    4  ls all
+    5  pwd
+    6  rm WCS
+    7  rm -r WCS
+    8  ls
+    9  mkdir WCS
+   10  cd WCS
+   11  touch bateau.txt
+   12  cd ..
+   13  rm -rf WCS
+   14  ls
+   15  pwd
+   16  clear
+   17  WCS3
+   18  mkdir WCS
+   19  touch coucou.txt
+   20  rm coucou
+   21  rm -r coucou
+   22  rm -rf coucou
+   23  rm -rf WCS
+   24  emacs
+   25  mkdir WCS
+   26  emacs WCS
+   27  rm WCS
+   28  sudo apt install git
+   29  git --global user.name "Richartrex"
+   30  git config--global user.name "Richartrex"
+   31  git config --global user.email learic7@gmail.com
+   32  git config --list
+   33  git config --global user.name "Richartrex"
+   34  git config --list
+   35  git config --global color.ui true
+   36  .bashrc
+   37  git config --help
+   38  git config
+   39  core.editor
+   40  git config --global core.editor emacs
+   41  HOME/.gitmessage.txt
+   42  gitmessage.txt
+   43  git commit
+   44  git config --global commit.template $HOME/.gitmessage.txt
+   45  git commit
+   46  --global
+   47  git config --list
+   48  git commit
+   49  $HOME/.gitmessage.txt
+   50  apt update
+   51  sudo apt update
+   52  git --version
+   53  git config help
+   54  git config --help
+   55  WCS
+   56  mkdir WCS
+   57  touch wild.php
+   58  ls WCS
+   59  ls
+   60  WCS
+   61  rm WCS
+   62  rm -r WCS
+   63  ls
+   64  rm -r coucou.txt
+   65  ls
+   66  rm -r wild.php
+   67  ls
+   68  mkdir WCS
+   69  WCS/touch wild.php
+   70  ls
+   71  gitk
+   72  gitK
+   73  $ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \
+   74  apt-get install libcurl4-gnutls-dev libexpat1-dev gettext   libz-dev libssl-dev
+   75  apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \ libz-dev libssl-dev
+   76  sudo add-apt-repository ppa:indicator-brightness/ppa
+   77  sudo apt-get update
+   78  sudo apt-get install indicator-brightness
+   79  ls /sys/class/backlight/
+   80  ls/sys/class/backlight/
+   81  sudo vi /etc/default/grub
+   82  sudo vi /test/default/grub
+   83  sudo update-grub
+   84  sudo vi /etc/default/grub
+   85  sudo update-grub
+   86  sudo apt install xbacklight
+   87  xbacklight =50
+   88  xbaclight -30
+   89  xbacklight -30
+   90  xbacklight
+   91  ls xbacklight
+   92  xbacklight -40
+   93  add-apt-repository ppa:apandada1/brightness-controller
+   94  sudo apt-repository ppa:apandada1/brightness-controller
+   95  sudo apt install xbacklight
+   96  xbacklight -set 100
+   97  xbacklight -set 0
+   98  ls bash
+   99  ls -a
+  100  ps1
+  101  PS1
+  102  apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \ libz-dev libssl-dev
+  103  sudo apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \ libz-dev libssl-dev
+  104  git config --list
+  105  git config
+  106  git commit
+  107  git config --global commit.template $HOME/.gitmessage.txt
+  108  git commit
+  109  .bashrc
+  110  .bash_profile
+  111  .cshrc
+  112  ~/.bashrc
+  113  sudo ~/.bashrc
+  114  sudo /.bashrc
+  115  cp ~ / 
+  116  cp ~ / .bashrc ~ / .bashrc.bak
+  117  ls -a
+  118  .bashrc
+  119  .bashrc -a
+  120  ls -a
+  121  -a .bashrc
+  122  Ps1
+  123  /usr/local
+  124  /usr/local/git/contrib/completion
+  125  /usr/local/git/contrib/completion/git-completion.bash
+  126  bashrc
+  127  bahrc
+  128  .bashrc
+  129  ls -a
+  130  source ~/.bashrc
+  131  bash
+  132  ls
+  133  cd WCS
+  134  ls
+  135  touch wild.php
+  136  ls
+  137  cd ..
+  138  ls
+  139  ls -a
+  140  nano .bashrc
+  141  nano .bahrc
+  142  cd clmysterymaster
+  143  cd mystery
+  144  cat crimescene
+  145  nano cheatsheet.md
+  146  cd ..
+  147  nano cheatsheet.md
+  148  cd mystery
+  149  less crimescene
+  150  cd crimescene
+  151  grep CLUE
+  152  cd ..
+  153  cd mystery
+  154  cd clmysterymaster/mystery
+  155  less crimescene
+  156  grep "CLUE"
+  157  cd clmysterymaster
+  158  mystery
+  159  cd mystery
+  160  grep -r "clue"/crimescene
+  161  ls
+  162  grep -r "clue"crimescene
+  163  grep -r "CLUE"crimescene
+  164  egrep "CLUE"crimescene
+  165  grep -E "CLUE"crimescene
+  166  grep -r "CLUE" crimescene
+  167  less people
+  168  less vehicles
+  169  cd people
+  170  head annabel
+  171  grep -r "annabel" vehicles
+  172  grep -r "annabel" people
+  173  grep -r "annabel" crimescene
+  174  drep -r "CLUE" crimescene
+  175  grep -r "CLUE" crimescene
+  176  grep "annabel" crimescene
+  177  head -n 20 people
+  178  cd interviews
+  179  grep -r "annabel" 
+  180  cd ..
+  181  grep "Annabel" people
+  182  cd street
+  183  head -n179 street/Hart_Place| tail -n 1
+  184  head -n 179 street/Hart_Place | tail -n 1
+  185  head -n 179 street/Hart_Place
+  186  cd street
+  187  head -n 179 street/Hard_Place | tail -n 1
+  188  cd streets
+  189  head -n 179 street/Hard_Place | tail -n 1
+  190  head -n 179 streets/Hard_Place | tail -n 1
+  191  head -n "179" streets/Hard_Place
+  192  man ls
+  193  man head
+  194  head -n 179 Hard_Place | tail -n 1
+  195  cd ..
+  196  head -n 179 streets/Hart_Place | tail -n 1
+  197  cd streets
+  198  head -n 40 Hart_Place | tail -n 1
+  199  cd ..
+  200  head -n 40 streets/Hart_Place | tail -n 1
+  201  cd streets
+  202  head -n 179 Buckingham-Place | tail -n 1_
+  203  head -n 179 Buckingham-Place | tail -n 1
+  204  cd ..
+  205  cd interviews
+  206  less interview-47246024
+  207  cd streets
+  208  cd ..
+  209  cd streets
+  210  head -n 179 Buckingham_Place | tail -n 1
+  211  cd ..
+  212  head -n 179 interviews/interview-699607
+  213  cd ..
+  214  cd mystery
+  215  grep "honda" vehicles
+  216  grep "Honda" vehicles
+  217  grep "L337" vehicles
+  218  grep -A 5 "L337" vehicles
+  219  catAAA
+  220  cat AAA
+  221  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Aron Pilhofer" 
+  222  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska"
+  223  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
+  224  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqui Maher"
+  225  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Erika Owers"
+  226  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Heather Billings"
+  227  cat AAA | grep "Carlos Dyatchin"
+  228  cd ..
+  229  cd memberships
+  230  cd mystery/memberships
+  231  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Aron Pilhofer"
+  232  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska"
+  233  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
+  234  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqui Maher"
+  235  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Erika Owers"
+  236  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Heather Billings"
+  237  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqui Maher" | wc -l
+  238  cd ..
+  239  cd peolpe
+  240  cd people
+  241  cd mystery/people
+  242  cd mystery
+  243  grep "Jeremy Bowers" people
+  244  grep "Jacqui Maher" people
+  245  cd ../..
+  246  echo Jeremy Bowers
+  247  history > mon_historique.log
+  
